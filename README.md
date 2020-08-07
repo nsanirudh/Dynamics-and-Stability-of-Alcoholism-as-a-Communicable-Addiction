@@ -5,7 +5,7 @@
 
 ## Summary
 
-Alcoholism.pdf(https://github.com/nsanirudh/Dynamics-and-Stability-of-Alcoholism-as-a-Communicable-Addiction/blob/master/Alcoholism.pdf) and Modelling Presentation.pdf(https://github.com/nsanirudh/Dynamics-and-Stability-of-Alcoholism-as-a-Communicable-Addiction/blob/master/Modeling%20presentation.pdf) contain the used equations and the theory of this project.
+[Alcoholism.pdf](https://github.com/nsanirudh/Dynamics-and-Stability-of-Alcoholism-as-a-Communicable-Addiction/blob/master/Alcoholism.pdf) and [Modelling Presentation.pdf](https://github.com/nsanirudh/Dynamics-and-Stability-of-Alcoholism-as-a-Communicable-Addiction/blob/master/Modeling%20presentation.pdf) contain the used equations and the theory of this project.
 
 ## Useage
 Implementaion on Simulink
